@@ -1,6 +1,7 @@
 {
   "name": "bruce",
   "version": "0.1.0",
+  "author": "bruce_ly@qq.com",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
