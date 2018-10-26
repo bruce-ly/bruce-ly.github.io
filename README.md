@@ -1,4 +1,4 @@
-# appweb
+# appWeb
 
 ## Project setup
 ```
