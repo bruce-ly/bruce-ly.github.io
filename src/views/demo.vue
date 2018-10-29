@@ -1,7 +1,7 @@
 <template>
     <ul>
         <li>
-            <a href="./demo/ios.html">ipone is click</a>
+            <a href="./demo/ios.html">iPhone is click</a>
         </li>
         <li>
             <v-toast/>
