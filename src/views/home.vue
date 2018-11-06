@@ -1,6 +1,6 @@
 <template>
     <div>
-        <img alt="Vue logo" src="../assets/logo.png">
+        <img alt="logo" src="../assets/logo.gif">
         <h1>Hello Vue</h1>
     </div>
 </template>
