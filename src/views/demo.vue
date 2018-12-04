@@ -10,12 +10,12 @@
 </template>
 
 <script>
-    import VToast from "../components/VToast";
+  import VToast from '../components/VToast'
 
-    export default {
-        components: {VToast},
-        data() {
-            return {}
-        }
+  export default {
+    components: { VToast },
+    data() {
+      return {}
     }
+  }
 </script>

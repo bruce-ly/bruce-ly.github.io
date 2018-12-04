@@ -5,15 +5,15 @@
 </template>
 
 <script>
-    import VQun from "../components/VQun";
+  import VQun from '../components/VQun'
 
-    export default {
-        components: {VQun},
-        data() {
-            return {}
-        },
-        created() {
+  export default {
+    components: { VQun },
+    data() {
+      return {}
+    },
+    created() {
 
-        }
     }
+  }
 </script>
