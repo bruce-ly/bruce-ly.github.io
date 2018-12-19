@@ -1,7 +1,7 @@
 <template>
-    <div>
-        <v-qun/>
-    </div>
+  <div>
+    <v-qun/>
+  </div>
 </template>
 
 <script>

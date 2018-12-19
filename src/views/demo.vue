@@ -1,12 +1,12 @@
 <template>
-    <ul>
-        <li>
-            <a href="./demo/ios.html">iPhone is click</a>
-        </li>
-        <li>
-            <v-toast/>
-        </li>
-    </ul>
+  <ul>
+    <li>
+      <a href="./demo/ios.html">iPhone is click</a>
+    </li>
+    <li>
+      <v-toast/>
+    </li>
+  </ul>
 </template>
 
 <script>

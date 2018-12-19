@@ -1,8 +1,10 @@
 <template>
-    <div>
-        <img alt="logo" src="../assets/logo.gif">
-        <h1>Hello Vue</h1>
-    </div>
+  <div>
+    <img
+      alt="logo"
+      src="../assets/logo.gif">
+    <h1>Hello Vue</h1>
+  </div>
 </template>
 
 <script>
