@@ -1,0 +1,136 @@
+{
+  "result": [
+    {
+      "annualTask": "102800.0万元",
+      "imagePath": "img/lgyy-big-img.png",
+      "leadership": "区城改办 文汇办",
+      "plannedInvestment": "30000.0万元",
+      "progress": 66.67,
+      "hostUnit": "市城投公司",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于文汇办,对文汇东路延线棚户区进行改造",
+      "projectName": "文汇路高铁沿线东段棚户区改造"
+    },
+    {
+      "annualTask": "16000.0万元",
+      "imagePath": "img/lgyy-big-img1.png",
+      "leadership": "渭阳办",
+      "plannedInvestment": "3262.3万元",
+      "progress": 34.38,
+      "hostUnit": "陕西日月投资开发有限公司",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于渭阳办,占地45亩,建设5栋高层",
+      "projectName": "日月星城高层住宅"
+    },
+    {
+      "annualTask": "178000.0万元",
+      "imagePath": "img/lgyy-big-img2.png",
+      "leadership": "区城改办 渭阳办",
+      "plannedInvestment": "300000.0万元",
+      "progress": 5.62,
+      "hostUnit": "陕西通塬房地产开发有限公司",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于渭阳办,占地223亩,建设商业住宅、酒店、超市等",
+      "projectName": "双泉市场区域改造"
+    },
+    {
+      "annualTask": "9430.0万元",
+      "imagePath": "img/lgyy-big-img3.png",
+      "leadership": "区水利局 渭阳办",
+      "plannedInvestment": "10000.0万元",
+      "progress": 25.45,
+      "hostUnit": "渭城区政府",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于渭阳办,占地1500亩,主要建设左岸护滩工程,在陇海铁路桥至上林大桥段建设自然滩地区、中央湿地景观区、净化湿地区、亲水体验广场、花田景观区、市民文化广场、景观绿廊区、水上乐园区、全民健身区、百亩河塘观赏区等景观区",
+      "projectName": "渭河渭城段滩面生态治理工程"
+    },
+    {
+      "annualTask": "33800.0万元",
+      "imagePath": "img/lgyy-big-img4.png",
+      "leadership": "区城改办 文汇办",
+      "plannedInvestment": "40000.0万元",
+      "progress": 31.51,
+      "hostUnit": "渭城区政府",
+      "startTime": "2016/02/11",
+      "projectIntro": "位于文汇办,对文汇西路以南高铁沿线两侧,民院什字西北角区域棚户区进行改造",
+      "projectName": "文汇路高铁沿线西段棚户区改造"
+    },
+    {
+      "annualTask": "260000.0万元",
+      "imagePath": "img/lgyy-big-img5.png",
+      "leadership": "渭阳办领导",
+      "plannedInvestment": "0万元",
+      "progress": 8.65,
+      "hostUnit": "咸阳双星房地产开发有限公司",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于渭阳办,占地195亩,主要建设23栋高层",
+      "projectName": "杜家堡村区域改造"
+    },
+    {
+      "annualTask": "210000.0万元",
+      "imagePath": "img/lgyy-big-img6.png",
+      "leadership": "文汇办领导",
+      "plannedInvestment": "0万元",
+      "progress": 14.29,
+      "hostUnit": "咸阳弘晔房地产开发有限公司",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于文汇办,占地163亩,主要建设15栋高层",
+      "projectName": "1002库区域改造"
+    },
+    {
+      "annualTask": "14000.0万元",
+      "imagePath": "img/lgyy-big-img7.png",
+      "leadership": "中山办领导",
+      "plannedInvestment": "0万元",
+      "progress": 29.29,
+      "hostUnit": "陕西秦博置业有限公司",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于中山办,占地26亩,主要建设4栋小高层和3栋多层",
+      "projectName": "邮电局、人民剧团家属院改造"
+    },
+    {
+      "annualTask": "70000.0万元",
+      "imagePath": "img/lgyy-big-img8.png",
+      "leadership": "文汇办领导",
+      "plannedInvestment": "0万元",
+      "progress": 8.86,
+      "hostUnit": "陕西裕塬房地产开发有限公司",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于文汇办,占地80亩,主要建设17栋高层",
+      "projectName": "马家院区域改造"
+    },
+    {
+      "annualTask": "35000.0万元",
+      "imagePath": "img/lgyy-big-img9.png",
+      "leadership": "文汇办领导",
+      "plannedInvestment": "0万元",
+      "progress": 11.43,
+      "hostUnit": "陕西亨星投资有限公司",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于文汇办,占地37亩,主要建设4栋高层",
+      "projectName": "东风路中段东侧区域改造（亨星锦秀城三期）"
+    },
+    {
+      "annualTask": "30000.0万元",
+      "imagePath": "img/lgyy-big-img1.png",
+      "leadership": "渭阳办领导",
+      "plannedInvestment": "0万元",
+      "progress": 16.67,
+      "hostUnit": "秦洋原通房地产公司",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于渭阳办,占地40亩,主要建设3栋高层和1个市场",
+      "projectName": "咸阳师院北侧区域改造"
+    },
+    {
+      "annualTask": "90000.0万元",
+      "imagePath": "img/lgyy-big-img3.png",
+      "leadership": "渭阳办领导",
+      "plannedInvestment": "0万元",
+      "progress": 1.11,
+      "hostUnit": "咸阳富绅房地产开发有限公司",
+      "startTime": "2018/01/02",
+      "projectIntro": "位于渭阳办,占地100亩,对马家堡（一组）部分区域进行改造",
+      "projectName": "马家堡(一组)部分区域改造（富绅国际城）"
+    }
+  ]
+}

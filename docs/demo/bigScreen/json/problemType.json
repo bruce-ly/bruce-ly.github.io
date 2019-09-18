@@ -1,0 +1,35 @@
+{
+  "problemSum": 8,
+  "problemTypeList": [
+    {
+      "num": 3,
+      "type": "质量"
+    },
+    {
+      "num": 1,
+      "type": "政策"
+    },
+    {
+      "num": 2,
+      "type": "招商"
+    },
+    {
+      "num": 0,
+      "type": "产权"
+    },
+    {
+      "num": 1,
+      "type": "技术"
+    },
+    {
+      "num": 1,
+      "type": "资金"
+    },
+    {
+      "num": 0,
+      "type": "其他"
+    }
+  ],
+  "resolved": 0,
+  "solvingRate": 0
+}

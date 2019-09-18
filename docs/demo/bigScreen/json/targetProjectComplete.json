@@ -1,0 +1,70 @@
+{
+  "ProjectComplete": [
+    {
+      "annualTask": 2324,
+      "unit": "万元",
+      "completedRatio": 80,
+      "projectName": "亭口水库建设工程"
+    },
+    {
+      "annualTask": 5000,
+      "unit": "万元",
+      "completedRatio": 60,
+      "projectName": "牛弘南路拓宽工程"
+    },
+    {
+      "annualTask": 1440,
+      "unit": "万元",
+      "completedRatio": 55,
+      "projectName": "亭枣公里三台至亭南段二级公路改造工程"
+    },
+    {
+      "annualTask": 1400,
+      "unit": "万元",
+      "completedRatio": 40,
+      "projectName": "现代国业建设工程"
+    },
+    {
+      "annualTask": 5600,
+      "unit": "万元",
+      "completedRatio": 39,
+      "projectName": "尚德昭仁财富广场建设工程"
+    },
+    {
+      "annualTask": 2500,
+      "unit": "万元",
+      "completedRatio": 35,
+      "projectName": "村级“一事一议”建设工程"
+    },
+    {
+      "annualTask": 2035,
+      "unit": "万元",
+      "completedRatio": 30,
+      "projectName": "陕西煤化卫生防护区二期搬迁工程"
+    },
+    {
+      "annualTask": 1500,
+      "unit": "万元",
+      "completedRatio": 26,
+      "projectName": "长武县实验小学建设工程"
+    },
+    {
+      "annualTask": 9500,
+      "unit": "万元",
+      "completedRatio": 15,
+      "projectName": "农村基础设施"
+    },
+    {
+      "annualTask": 2040,
+      "unit": "万元",
+      "completedRatio": 10,
+      "projectName": "农村基础公共服务"
+    },
+    {
+      "annualTask": 1100,
+      "unit": "元",
+      "completedRatio": 7,
+      "projectName": "现代果业建设工程"
+    }
+  ]
+}
