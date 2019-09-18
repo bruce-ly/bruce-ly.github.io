@@ -1,0 +1,57 @@
+{
+  "problemDisposalList": [
+    {
+      "problemDisposal": 0,
+      "leadership": "区城改办 渭阳办",
+      "hostUnit": "陕西通塬房地产开发有限公司",
+      "projectName": "双泉市场区域改造"
+    },
+    {
+      "problemDisposal": 0,
+      "leadership": "渭阳办领导",
+      "hostUnit": "咸阳富绅房地产开发有限公司",
+      "projectName": "马家堡(一组)部分区域改造（富绅国际城）"
+    },
+    {
+      "problemDisposal": 0,
+      "leadership": "新兴办领导",
+      "hostUnit": "渭城区政府",
+      "projectName": "渭城中学新校区"
+    },
+    {
+      "leadership": "渭阳办领导",
+      "hostUnit": "陕西京基置业有限公司",
+      "projectName": "望贤路南侧区域改造（京基一品）"
+    },
+    {
+      "leadership": "文汇办领导",
+      "hostUnit": "陕西裕塬房地产开发有限公司",
+      "projectName": "马家院区域改造"
+    },
+    {
+      "leadership": "渭阳办领导",
+      "hostUnit": "咸阳双星房地产开发有限公司",
+      "projectName": "杜家堡村区域改造"
+    },
+    {
+      "leadership": "渭阳办",
+      "hostUnit": "陕西日月投资开发有限公司",
+      "projectName": "日月星城高层住宅"
+    },
+    {
+      "leadership": "渭阳办领导",
+      "hostUnit": "市房产局统建办",
+      "projectName": "渭阳新村"
+    },
+    {
+      "leadership": "渭阳办领导",
+      "hostUnit": "秦洋原通房地产公司",
+      "projectName": "咸阳师院北侧区域改造"
+    },
+    {
+      "leadership": "中山办领导",
+      "hostUnit": "陕西秦博置业有限公司",
+      "projectName": "邮电局、人民剧团家属院改造"
+    }
+  ]
+}

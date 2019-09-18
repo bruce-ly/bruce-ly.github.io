@@ -1,0 +1,34 @@
+{
+  "resultList": [
+    {
+      "indexname": "规模以上工业增加值",
+      "sumquarterlyCumulative": 1137.1,
+      "indexid": "0647999324c54c0cb4e62bdd580ac194",
+      "indexunit": "亿元"
+    },
+    {
+      "indexname": "地方财政收入",
+      "sumquarterlyCumulative": 1313.7,
+      "indexid": "3d8adc17aa85418bb2ab0dc25070a433",
+      "indexunit": "亿元"
+    },
+    {
+      "indexname": "固定资产投资",
+      "sumquarterlyCumulative": 3512.2,
+      "indexid": "3e0ac5f7685f4e17aff7763cfb9524cf",
+      "indexunit": "亿元"
+    },
+    {
+      "indexname": "地区生产总值",
+      "sumquarterlyCumulative": 4372.3,
+      "indexid": "73b079a917ce44608a9c569809a141d2",
+      "indexunit": "亿元"
+    },
+    {
+      "indexname": "社会消费品零售额",
+      "sumquarterlyCumulative": 610.1,
+      "indexid": "d7aacfa4a8324690abfc4d92aedee627",
+      "indexunit": "亿元"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "resultList": [
+    {
+      "data": [
+        {
+          "firstIndustry": "45"
+        },
+        {
+          "secondIndustry": "23"
+        },
+        {
+          "thirdIndustry": "234"
+        },
+        {
+          "Growth": 42
+        }
+      ],
+      "year": "2013"
+    },
+    {
+      "data": [
+        {
+          "firstIndustry": "56"
+        },
+        {
+          "secondIndustry": "23"
+        },
+        {
+          "thirdIndustry": "135"
+        },
+        {
+          "Growth": 72.7
+        }
+      ],
+      "year": "2014"
+    },
+    {
+      "data": [
+        {
+          "firstIndustry": "45"
+        },
+        {
+          "secondIndustry": "34"
+        },
+        {
+          "thirdIndustry": "123"
+        },
+        {
+          "Growth": 41.6
+        }
+      ],
+      "year": "2015"
+    },
+    {
+      "data": [
+        {
+          "firstIndustry": "123"
+        },
+        {
+          "secondIndustry": "23"
+        },
+        {
+          "thirdIndustry": "67"
+        },
+        {
+          "Growth": 37
+        }
+      ],
+      "year": "2016"
+    },
+    {
+      "data": [
+        {
+          "firstIndustry": "0"
+        },
+        {
+          "secondIndustry": "262"
+        },
+        {
+          "thirdIndustry": "109"
+        },
+        {
+          "Growth": 51.8
+        }
+      ],
+      "year": "2017"
+    }
+  ]
+}

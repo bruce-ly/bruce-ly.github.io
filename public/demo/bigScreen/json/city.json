@@ -1,0 +1,20 @@
+[
+  {
+    "name": "拆迁城建",
+    "cityTown": 14,
+    "family": 1354,
+    "competeRate": 0.45
+  },
+  {
+    "name": "提升改造",
+    "cityTown": 31,
+    "family": 5214,
+    "competeRate": 0.63
+  },
+  {
+    "name": "撤并整合",
+    "cityTown": 85,
+    "family": 130254,
+    "competeRate": 0.26
+  }
+]
